@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Akhand Pratap Vishwakarma 👋
+🎓 Computer Science & Engineering Graduate
+📊 Aspiring Data Analyst | Business Analyst
+🐍 Python | SQL | Excel | Power BI | MySQL
+📈 Passionate about transforming data into actionable insights.## Hi there 👋
 
 <!--
 **Rohan-7408/Rohan-7408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
