@@ -52,6 +52,7 @@ Deep learning project for brain tumor detection using Convolutional Neural Netwo
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- GitHub
-- Email
+
+- 💼 "LinkedIn" (https://www.linkedin.com/in/akhand-pratap-vishwakarma-9a7356262?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 🐙 "GitHub" (https://github.com/Rohan-7408)
+- 📧 "Email" (rohanvish78@gmail.com)
